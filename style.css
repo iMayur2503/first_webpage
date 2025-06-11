@@ -1,0 +1,18 @@
+h1 {
+    font-size: 64px;
+    color: brown;
+
+}
+
+p {
+        font-size: 24px;    
+}
+
+.subheading {
+     color: aqua;  
+     font-size: 24px;  
+} 
+#heading {
+    font-size: 64px;
+    color: green;
+} 
